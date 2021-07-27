@@ -3,7 +3,7 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-import pickle
+#import pickle
 import seaborn as sns
 import matplotlib
 matplotlib.use( 'tkagg' )
